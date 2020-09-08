@@ -1,0 +1,79 @@
+{
+  "main": {
+    "name": "Aniket Bonde",
+    "occupation": "ReactJS Developer",
+    "description": "Full Stack React Developer by Day, Founder && Freelancer by Night. #papaReact",
+    "image": "dp.jpeg",
+    "bio": "My name is Aniket, I'm a Full Stack ReactJS Developer.",
+    "contactmessage": "Get in touch with me to receive further details.",
+    "email": "aniketbonde@outlook.com",
+    "phone": "+91 95799 68294",
+    "address": {
+      "street": "123 Fake Street",
+      "city": "London",
+      "state": "UK",
+      "zip": "ABC 123"
+    },
+    "website": "http://www.google.com",
+    "resumedownload": "http://google.com",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/aniks.bond",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/aniket-bonde/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/aniketpbonde/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/aniketbonde",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [],
+    "work": [],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "100%"
+      },
+      {
+        "name": "CSS",
+        "level": "95%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "Java",
+        "level": "99%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "Angular",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": []
+  },
+  "testimonials": {
+    "testimonials": []
+  }
+}
